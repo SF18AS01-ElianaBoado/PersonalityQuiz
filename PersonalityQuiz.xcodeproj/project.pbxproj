@@ -101,7 +101,7 @@
 			attributes = {
 				LastSwiftUpdateCheck = 1010;
 				LastUpgradeCheck = 1010;
-				ORGANIZATIONNAME = "New York University School of Professional Studies";
+				ORGANIZATIONNAME = bmcc;
 				TargetAttributes = {
 					4DA8E0C321D963E3008F61A2 = {
 						CreatedOnToolsVersion = 10.1;
